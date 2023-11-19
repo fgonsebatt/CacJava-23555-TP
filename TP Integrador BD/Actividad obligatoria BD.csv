@@ -1,0 +1,11 @@
+id_orador,nombre,apellido,email,tema,fecha_alta
+1,Bill,Gates,thebill@therichest.com,"how to own everything","2023-11-19 12:08:51"
+2,Steve,Jobs,steveo@macintosh.com,"mejor que el otro","2023-11-19 12:10:26"
+3,Ada,Lovelace,steveo@macintosh.com,"sobre la maquina analitica","2023-11-19 12:11:09"
+4,"Maria Salomea",Skłodowska-Curie,curie@radiation.com,"la radiacion hace mal","2023-11-19 12:13:01"
+5,"Niels Henrik David",Bohr,niels@atom.com,"atomos cuanticos","2023-11-19 12:14:06"
+6,"James Clerk",Maxwell,elbarba@electrico.com,"radiación electromagnética","2023-11-19 12:15:12"
+7,"Stephen Gary",Wozniak,therealwoz@berkleyblue.com,"apple 1, el comienzo","2023-11-19 12:18:14"
+8,James,Gosling,JJames@CalgaryCanada.com,"Java (not the coffee)","2023-11-19 12:19:48"
+9,"Donald D.",Chamberlin,Don@sql.com,"Structured Query Language","2023-11-19 12:21:13"
+10,"Cecilia Helena",Payne-Gaposchkin,Cece@iwenttoharvard.com,"Las estrellas son hidrogeno","2023-11-19 12:22:35"

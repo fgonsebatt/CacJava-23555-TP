@@ -1,0 +1,6 @@
+id,nombre,apellido,edad,fecha,provincia
+1,Juan,Perez,15,"2023-11-19 11:33:11",catamarca
+2,Miriam,Gonzalez,25,"2023-11-19 11:34:13","la rioja"
+3,Hector,Hectorio,75,"2023-11-19 11:35:02",salta
+4,Penelope,"La Mur",21,"2023-11-19 11:37:14",cordoba
+5,Jack,TheRipper,42,"2023-11-19 11:39:22",chaco
